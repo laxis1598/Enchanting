@@ -1,0 +1,97 @@
+/* General Styling*/
+body {
+    margin:0;
+}
+h1 {
+    text-align: center;
+    background-color:  #43133e;
+    color:#ffffff;
+    margin: 0;
+    padding:20px;
+    font-family: monospace;
+    position: fixed;
+    width:100%;
+    top:0;
+    left:0;
+}
+/* main image styling*/
+.main-image {
+    width:100%;
+    margin-top: 70px;
+}
+
+/*Container styling*/
+.container {
+    margin:0 auto;
+    width:1300px;
+    max-width:100%;
+}
+.destination-name {
+    margin: 30px;
+    display: flex;
+    width:100%;
+}
+/*Destination image styling*/
+.image {
+    width:33%;
+    margin:0 auto;
+}
+.image p {
+    width:400px;
+    max-width:100%;
+    font-size: 1.7rem;
+    margin:0;    
+}
+/*Image Below content styling*/
+.cityname {
+    font-size: 1rem;
+}
+.definition {
+    width:390px;
+    max-width:100%;
+    font-size: 1rem;
+    margin-top:10px;
+    overflow-x: auto;
+    height:120px;
+}
+.destination-part1 {
+    margin-top: 50px;
+}
+.destination-part2 {
+    margin-top: 50px;
+}
+.container-part3 {
+    margin-top: 50px;
+}
+
+/*button styling*/
+.read-more-button {
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: #7a1755;
+    color: #ffffff;
+    border: 0;
+}
+
+/** end title & content styling*/
+.end-title {
+    text-align: center;
+    color: #840057;
+    font-size: 3.5rem;
+}
+.end-content {
+   
+    font-size: 1rem;
+    margin-left: 10%;  
+    width:80%;
+    margin-top: 30px;
+}
+
+/*footer styling*/
+.footer {
+    background-color: #7a1755;
+    color:#ffffff;
+    padding:20px;
+    margin-top:50px;
+    padding-left:145px;
+}
